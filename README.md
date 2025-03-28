@@ -57,8 +57,6 @@ The ANN model is structured as follows:
 - **ROC-AUC**: Indicates the model's ability to distinguish between diabetic and non-diabetic cases.
 - **Confusion Matrix**: Shows the distribution of true positives, true negatives, false positives, and false negatives.
 
-## How to Run
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/YourUsername/Diabetes-ANN-Prediction.git
-   cd Diabetes-ANN-Prediction
+## License
+This project is licensed under the MIT License.
+
